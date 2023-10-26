@@ -1,9 +1,28 @@
-<h3 id="user-content-about-me" dir="auto"><a class="heading-link" href="#about-me">ABOUT ME<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
 
-<img src="https://camo.githubusercontent.com/49c393ce9a15f1aae091b5751ce09c84134aea0ed7a4f9b909b4f26d43deb6a3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d547269706c65486174" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=amba666" style="max-width: 100%;"> 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+</div>
+<br>
+<p align="center"> Hi 👋 My name is Amba </p>
 
+
+---
+
+###  About Me :
+
+I am from Tanzania. <br>
+Tech guy  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+
+
+
+---
 
 ### :fire: My Stats :
+<br>
+<img src="https://camo.githubusercontent.com/49c393ce9a15f1aae091b5751ce09c84134aea0ed7a4f9b909b4f26d43deb6a3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d547269706c65486174" alt="" data-canonical-src="https://komarev.com/ghpvc/?amba666" style="max-width: 100%;"> 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amba666&theme=dark)](https://git.io/streak-stats)
 
 
