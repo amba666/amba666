@@ -18,7 +18,7 @@ Tech guy  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
 
 ---
-
+<script src="https://tryhackme.com/badge/2884463"></script>
 
 
 
