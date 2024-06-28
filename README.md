@@ -1,6 +1,7 @@
 
 
-![Black and Yellow Modern Cyber Technology Logo (1920 x 800 px)](https://github.com/amba666/amba666/assets/67413568/7bc702e3-9b91-40b6-8fcd-f4c64317bf3c)
+![Black and Yellow Modern Cyber Technology Logo](https://github.com/amba666/amba666/assets/67413568/67a1b1aa-9c55-4eca-84a0-8c4522c543bc)
+
 
 
 
