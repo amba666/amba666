@@ -1,10 +1,10 @@
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  
-</div>
-<br>
-<p align="center"> Hi 👋 My name is Amba </p>
+
+![Black and Yellow Modern Cyber Technology Logo (1920 x 800 px)](https://github.com/amba666/amba666/assets/67413568/7bc702e3-9b91-40b6-8fcd-f4c64317bf3c)
+
+
+
+
 
 
 ---
