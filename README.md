@@ -10,7 +10,7 @@
 
 ---
 
-Tech guy  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F743&width=435&lines=On+Jurney+To+Become+Great+Hacker)](https://git.io/typing-svg)
 
 ---
 
